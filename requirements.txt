@@ -1,0 +1,36 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+openpyxl
+xlrd
+
+# Machine Learning & Regime Classification
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+
+# Time-series analysis
+pmdarima
+arch                       # GARCH, volatility models
+tsfresh                    # automated feature extraction (optional)
+prophet                    # macro cycles (optional)
+
+# Statistical tests / econometrics
+linearmodels               # panel data, Fama-MacBeth, etc.
+pandas-datareader          # macro data from FRED
+
+# Feature engineering utilities
+tqdm
+category_encoders
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Data ingestion / APIs
+requests
+yfinance
