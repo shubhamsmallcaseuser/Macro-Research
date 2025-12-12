@@ -87,7 +87,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Data\Processed Data\Equity Benchmark\SP500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Data\Processed Data\Fixed Income Data\INC_10_yield.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\Fixed Income Data\India 10-Year Bond Yield Historical Data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -136,6 +150,62 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\HML.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\MKT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\MOM.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\RMW.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\SMB_big.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\factor_ohlc\SMB_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\valuation_metrics\NIFTY SMLCAP 100_01-Jan-1990_02-Dec-2025_2025-12-02_15-59-52.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\valuation_metrics\Nifty 50_01-Jan-1990_02-Dec-2025_2025-12-02_15-59-52.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Data\Processed Data\valuation_metrics\nifty_div.csv">
           <value>
             <Attribute>
@@ -158,6 +228,13 @@
           </value>
         </entry>
         <entry key="\Data\Processed Data\valuation_metrics\nifty_pe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Processed Data\vix\Ind_vix_eik.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
